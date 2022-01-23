@@ -1,5 +1,3 @@
-# szarej.github.io
-
 **!HELLO!**
 
 you are here
